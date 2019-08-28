@@ -4,7 +4,7 @@ x = int(input())
 print('Enter the second number')
 y= int(input())
 
-print('Enter the operation')
+print('Enter the operation (+,-,*,/)')
 op = input()
 
 # print('Enter the equation (with spaces')
